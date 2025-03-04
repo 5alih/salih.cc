@@ -1,0 +1,23 @@
+body{
+	font-family: 'swnmono', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 50px;
+	background-color: rgb(20, 20, 20);
+	color: goldenrod;
+	text-align: center;
+	outline-style: none;
+}
+
+div{
+	height: 30vh;
+}
+
+a{
+	color: goldenrod;
+}
+
+@font-face {
+	font-family: 'swnmono';
+	src: url('swnmono.ttf') format('tff');
+	font-weight: normal;
+	font-style: normal;
+  }
