@@ -1,11 +1,18 @@
+@font-face {
+	font-family: 'swn';
+	src: url('swn.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
 body{
-	font-family: 'swnmono', Tahoma, Geneva, Verdana, sans-serif;
+	font-family: 'swn', Courier, monospace;
 	font-size: 24px;
 	background-color: rgb(20, 20, 20);
 	color: whitesmoke;
 	outline-style: none;
 }
- 
+
 h3{
 	text-align: center;
 }
@@ -21,10 +28,3 @@ a{
 	font-size: 18px;
 	margin-right: 500px;
 }
-
-@font-face {
-	font-family: 'swnmono';
-	src: url('swnmono.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-  }
