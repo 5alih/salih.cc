@@ -24,7 +24,7 @@ a{
 
 @font-face {
 	font-family: 'swnmono';
-	src: url('swnmono.ttf') format('tff');
+	src: url('swnmono.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
   }
