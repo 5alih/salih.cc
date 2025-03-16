@@ -8,8 +8,8 @@
 body{
 	font-family: 'swn', Courier, monospace;
 	font-size: 24px;
-	background-color: rgb(20, 20, 20);
-	color: whitesmoke;
+	background-color: #131313;
+	color: #dddddd;
 	outline-style: none;
 }
 
@@ -24,7 +24,7 @@ div{
 }
 
 a{
-	color: goldenrod;
+	color: #909FAF;
 	font-size: 18px;
 	margin-right: 500px;
 }
